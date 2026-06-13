@@ -73,8 +73,9 @@ This project was created to gain a deeper understanding of:
 * یادگیری معماری App Router در Next.js
 * درک فرآیند Authentication و Authorization
 * مدیریت دستی Session و Cookie
-*
+*استفاده از Server Actions
+* کار با SQLite در پروژه‌های Next.js
+
+
 Connection:
 Alireza.ghazanfari@yahoo.com
-hvاستفاده از Server Actions
-* کار با SQLite در پروژه‌های Next.js
