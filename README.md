@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Authentication Blog
 
-## Getting Started
+🇬🇧 **English** | 🇮🇷 **فارسی**
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🇬🇧 English
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### About the Project
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This project is a simple blog application built primarily for learning and practicing **authentication**, **authorization**, and the **Next.js App Router** architecture. Therefore, the main focus is on functionality and backend concepts rather than UI/UX design.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The application is developed with **JavaScript**, **React**, **Next.js**, and **Tailwind CSS**.
 
-## Learn More
+### Features
 
-To learn more about Next.js, take a look at the following resources:
+* Built with **Next.js App Router**
+* Authentication and authorization implemented **manually**
+* Custom **cookie** and **session** management without using authentication libraries
+* Uses **credential-based sessions**
+* Uses **Server Actions** in Next.js
+* Uses **Better SQLite3** as the database
+* Simple and minimal user interface
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+* JavaScript
+* React.js
+* Next.js (App Router)
+* Tailwind CSS
+* Better SQLite3
 
-## Deploy on Vercel
+### Learning Goals
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project was created to gain a deeper understanding of:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* Next.js App Router
+* Authentication and Authorization flow
+* Manual Session and Cookie handling
+* Server Actions in Next.js
+* Working with SQLite databases in Next.js applications
+
+---
+
+## 🇮🇷 فارسی
+
+### درباره پروژه
+
+این پروژه یک وبلاگ ساده است که با هدف یادگیری و تمرین **احراز هویت (Authentication)**، **مجوزدهی (Authorization)** و معماری **App Router در Next.js** ساخته شده است. به همین دلیل تمرکز اصلی پروژه روی مفاهیم فنی و پیاده‌سازی بک‌اند بوده و ظاهر رابط کاربری به‌صورت ساده طراحی شده است.
+
+این پروژه با **JavaScript**، **React**، **Next.js** و **Tailwind CSS** توسعه داده شده است.
+
+### ویژگی‌ها
+
+* توسعه‌یافته با **Next.js App Router**
+* پیاده‌سازی دستی احراز هویت و مجوزدهی
+* ساخت و مدیریت **Cookie** و **Session** به‌صورت کاملاً دستی و بدون استفاده از کتابخانه‌های احراز هویت
+* استفاده از **Credential Session**
+* استفاده از **Server Actions** در Next.js
+* استفاده از **Better SQLite3** به‌عنوان پایگاه داده
+* رابط کاربری ساده و مینیمال
+
+### تکنولوژی‌های استفاده‌شده
+
+* JavaScript
+* React.js
+* Next.js (App Router)
+* Tailwind CSS
+* Better SQLite3
+
+### اهداف آموزشی پروژه
+
+* یادگیری معماری App Router در Next.js
+* درک فرآیند Authentication و Authorization
+* مدیریت دستی Session و Cookie
+*
+Connection:
+Alireza.ghazanfari@yahoo.com
+hvاستفاده از Server Actions
+* کار با SQLite در پروژه‌های Next.js
