@@ -79,3 +79,7 @@ This project was created to gain a deeper understanding of:
 
 Connection:
 Alireza.ghazanfari@yahoo.com
+
+Live version:
+https://authentication-nextjs-approuter-session.onrender.com
+
